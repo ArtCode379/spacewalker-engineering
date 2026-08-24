@@ -6,7 +6,7 @@
     <string name="pbuhc_price_per_hour">£%1$.2f / per hour</string>
 
     <!-- top bar titles -->
-    <string name="pbuhc_top_bar_home_title">App Title</string>
+    <string name="pbuhc_top_bar_home_title">Spacewalker Engineering</string>
     <string name="pbuhc_top_bar_bookings_title">Bookings</string>
     <string name="pbuhc_top_bar_checkout_title">Checkout</string>
     <string name="pbuhc_top_bar_settings_title">Settings</string>
@@ -18,12 +18,12 @@
     <string name="pbuhc_bottom_bar_nav_item_settings_title">Settings</string>
 
     <!-- onboarding screen -->
-    <string name="pbuhc_page_1_title">Page 1 Title</string>
-    <string name="pbuhc_page_2_title">Page 2 Title</string>
-    <string name="pbuhc_page_3_title">Page 3 Title</string>
-    <string name="pbuhc_page_1_description">Page 1 Description</string>
-    <string name="pbuhc_page_2_description">Page 2 Description</string>
-    <string name="pbuhc_page_3_description">Page 3 Description</string>
+    <string name="pbuhc_page_1_title">Engineering clarity</string>
+    <string name="pbuhc_page_2_title">Evidence before assumptions</string>
+    <string name="pbuhc_page_3_title">From insight to action</string>
+    <string name="pbuhc_page_1_description">Explore specialist consulting services for complex technical decisions.</string>
+    <string name="pbuhc_page_2_description">Commission independent audits, energy reviews, and standards guidance.</string>
+    <string name="pbuhc_page_3_description">Book a focused session and leave with practical priorities.</string>
     <string name="pbuhc_next_button_title">Next</string>
     <string name="pbuhc_start_button_title">Start</string>
     <string name="pbuhc_skip_button_title">Skip</string>
@@ -56,9 +56,9 @@
     <string name="pbuhc_settings_screen_company_label">Company</string>
     <string name="pbuhc_settings_screen_version_label">Version</string>
     <string name="pbuhc_settings_screen_customer_support_label">Customer Support</string>
-    <string name="pbuhc_company_name">Company Name</string>
+    <string name="pbuhc_company_name">SPACEWALKER CONSULTING LTD</string>
     <string name="pbuhc_app_version">1.0.0</string>
-    <string name="pbuhc_customer_support_link">https://website.org/</string>
+    <string name="pbuhc_customer_support_link">http://spacewalker.digital/</string>
 
     <!--[FIREBASE][notification_channel]-->
 </resources>
